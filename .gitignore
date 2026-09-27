@@ -1,0 +1,17 @@
+# Memoria del proyecto (se entrega aparte)
+*.pdf
+*.docx
+# Archivos temporales de Word
+~$*
+
+# Compilación (CMake / CLion)
+cmake-build-*/
+build/
+
+# Configuración de CLion
+.idea/
+
+# Ejecutables y objetos compilados
+*.exe
+*.o
+*.obj
